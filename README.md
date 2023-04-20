@@ -1,5 +1,7 @@
-# visualitzacio_dades_PAC2
-Extreu informació de cada producte de suplementació de cada una de les 17 categories de suplements que es troben a la pàgina web https://supplementdatabase.com
+# PAC2 Visualitzacio de dades
+- Birds: https://data.world/data-ny-gov/tk82-7km5 
+- Oil consumption: https://data.world/brianray/gapminder-oil-consumption-per
+- Dow Jones Index: https://data.world/uci/dow-jones-index
 
 Aquest paquet està format per 5 arxius:
 
