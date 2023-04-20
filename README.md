@@ -1,24 +1,20 @@
 # PAC2 Visualitzacio de dades
+Orígen de les dades:
 - Birds: https://data.world/data-ny-gov/tk82-7km5 
 - Oil consumption: https://data.world/brianray/gapminder-oil-consumption-per
 - Dow Jones Index: https://data.world/uci/dow-jones-index
 
 Aquest paquet està format per 5 arxius:
 
-source/requeriments.txt: conté la informació sobre les llibreries necessàries per poder executar l'script
-source/main.py: que és l'arxiu principal que s'ha d'executar. S'ha de tenir en compte que el temps d'execució és molt llarg i per això s'ha modificat aquest arxiu per extreure només una mostra del dataset per cadascuna de les 17 categories de tipus de suplement.
-source/supp_scraper.py: és l'arxiu que conté totes les funcions per tal de poder realitzar correctament el Web Scraping.
-dataset/supl_data.csv: conté totes les dades extretes per les 17 categories de tipus de suplement amb un valor màxim de productes per categoria de 500 productes.
-dataset/protein_supl_data.csv: conté només les dades filtrades per la categoria "Protein Supplement".
-Com executar el codi
+Slope_chart_Oil_consumption.png:
+Pyramid_chart_Birds.png: 
 
-Es pot crear un nou entorn virtual executant:
+Slope_chart/Oil_consumption_per_person.csv:
+Slope_chart/oil_consumption_per_QueryResult.csv:
 
-virtualenv venv
-S'han d'instal·lar primer els moduls necessaris que apareixen a l'arxiu requeriments.txt:
+Pyramid_chart/biodiversity-by-county-distribution-of-animals-plants-and-natural-communities-1.csv
+Pyramid_chart/count_chautauqua_birds_QueryResult.csv
+Pyramid_chart/Chautauqua_birds_QueryResult.csv
 
-pip install -r requirements.txt
-L'script main.py s'ha d'executar amb la instrucció:
-
-python3 main.py 1
-S'ha de tenir en compte que el número especificat en l'execució de l'arxiu main.py indica el nombre màxim de productes que es volen extreure per cada categoria de suplement. En el suposat cas que es vulgui extreure un major nombre, només cal modificar el número pel valor d'interés.
+OHLC_chart/dow_jones_index.data:
+OHLC_chart/dow_jones_index.names:
