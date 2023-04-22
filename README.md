@@ -4,7 +4,7 @@
 - Oil consumption: https://data.world/brianray/gapminder-oil-consumption-per
 - Bitcoin: https://data.world/petroniocandido/bitcoin
 
-Aquest paquet està format pels següents arxius:
+**Aquest paquet està format pels següents arxius:**
 
 - _Representacions visuals de cada tècnica:_
 
@@ -29,7 +29,7 @@ Aquest paquet està format pels següents arxius:
   - `OHLC_chart/Bitcoins_Nov2016-Sep2018.png`: OHLC chart per un període més reduït (entre Novembre de 2016 i Setembre de 2018).
   - `OHLC_chart/Bitcoins_Sep2017-Feb2018.png`: OHLC chart per un període més reduït (entre Setembre de 2017 i Febrer de 2018).
   
-Publicació:
+**Publicació de les visualitzacions:**
 
 Les visualitzacions també es poden visualitzar a la mateixa plataforma on s'han desenvolupat.
 
