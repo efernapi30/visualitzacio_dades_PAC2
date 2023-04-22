@@ -14,18 +14,16 @@ Aquest paquet està format pels següents arxius:
 
 - _Datasets amb les dades:_
 
-- `Slope_chart/Oil_consumption_per_person.csv`: dataset original amb les dades de consum de combustible per persona en tones per any.
-- `Slope_chart/oil_consumption_per_QueryResult.csv`: dades filtrades per 10 païssos (_Algeria_, _Germany_, _China_, _Brazil_, _India_, _Japan_, _Russia_,
-_Spain_, _United States_, _Saudi Arabia_).
+  - `Slope_chart/Oil_consumption_per_person.csv`: dataset original amb les dades de consum de combustible per persona en tones per any.
+  - `Slope_chart/oil_consumption_per_QueryResult.csv`: dades filtrades per 10 païssos (_Algeria_, _Germany_, _China_, _Brazil_, _India_, _Japan_, _Russia_, _Spain_, _United States_, _Saudi Arabia_).
 
-- `Pyramid_chart/biodiversity-by-county-distribution-of-animals-plants-and-natural-communities-1.csv`: dataset original amb dades de biodiversitat amb la distribució d'animals, plantes i comunitats naturals segons la comarca.
-- `Pyramid_chart/count_chautauqua_birds_QueryResult.csv`: dades filtrades per totes les espècies d'ocells de la comarca de Chautauqua, Nova York.
-- `Pyramid_chart/Chautauqua_birds_QueryResult.csv`: dades agrupades segons l'estatus de conservació de les espècies d'ocells de la comarca de Chautauqua.
+  - `Pyramid_chart/biodiversity-by-county-distribution-of-animals-plants-and-natural-communities-1.csv`: dataset original amb dades de biodiversitat amb la distribució d'animals, plantes i comunitats naturals segons la comarca.
+  - `Pyramid_chart/count_chautauqua_birds_QueryResult.csv`: dades filtrades per totes les espècies d'ocells de la comarca de Chautauqua, Nova York.
+  - `Pyramid_chart/Chautauqua_birds_QueryResult.csv`: dades agrupades segons l'estatus de conservació de les espècies d'ocells de la comarca de Chautauqua.
 
-- `OHLC_chart/BTCUSD.csv`: dataset original amb les dades del valor del bitcoin entre el 2011 i el 2019.
-- `OHLC_chart/Bitcoins_2011-2019.png`: OHLC chart per tot el dataset (entre el 2011 i el 2019).
-- `OHLC_chart/Bitcoins_Nov2016-Sep2018.png`: OHLC chart per un període més reduït (entre Novembre de 2016 i Setembre de 2018).
-- `OHLC_chart/Bitcoins_Sep2017-Feb2018.png`: OHLC chart per un període més reduït (entre Setembre de 2017 i Febrer de 2018).
-
+  - `OHLC_chart/BTCUSD.csv`: dataset original amb les dades del valor del bitcoin entre el 2011 i el 2019.
+  - `OHLC_chart/Bitcoins_2011-2019.png`: OHLC chart per tot el dataset (entre el 2011 i el 2019).
+  - `OHLC_chart/Bitcoins_Nov2016-Sep2018.png`: OHLC chart per un període més reduït (entre Novembre de 2016 i Setembre de 2018).
+  - `OHLC_chart/Bitcoins_Sep2017-Feb2018.png`: OHLC chart per un període més reduït (entre Setembre de 2017 i Febrer de 2018).
 
 A més, es pot visitar l'enllaç https://public.tableau.com/app/profile/estrella.fernandez/viz/Bitcoin_data/Sheet1 on està publicat el gràfic original de les dades de Bitcoins, on de manera intercativa es pot modificar el període de temps que es vol visualitzar.
