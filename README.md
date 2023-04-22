@@ -33,6 +33,6 @@
 
 Les visualitzacions també es poden visualitzar a la mateixa plataforma on s'han desenvolupat.
 
-- _Canva_ pel _Pyramid Chart_ : https://www.canva.com/design/DAFgpQP6QQU/vXDrli9oaH0ElJhTgSLgRA/view?utm_content=DAFgpQP6QQU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu 
-- _Flourish_ pel _Slope Chart_ : https://public.flourish.studio/visualisation/13485090/
-- _Tableau Public_ pel _OHLC Chart_: https://public.tableau.com/app/profile/estrella.fernandez/viz/Bitcoin_data/Sheet1
+- _Canva_ per la representació de _Pyramid Chart_ : https://www.canva.com/design/DAFgpQP6QQU/vXDrli9oaH0ElJhTgSLgRA/view?utm_content=DAFgpQP6QQU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu 
+- _Flourish_ per la representació de _Slope Chart_ : https://public.flourish.studio/visualisation/13485090/
+- _Tableau Public_ per la representació de _OHLC Chart_: https://public.tableau.com/app/profile/estrella.fernandez/viz/Bitcoin_data/Sheet1
