@@ -10,7 +10,7 @@ Aquest paquet està format per 5 arxius:
 - `Pyramid_chart_Birds.png`: 
 
 - `Slope_chart/Oil_consumption_per_person.csv`: dataset original amb les dades de consum de combustible per persona en tones per any.
-- `Slope_chart/oil_consumption_per_QueryResult.csv`: dades filtrades per 10 païssos ('Algeria', 'Germany', 'China', 'Brazil', 'India', 'Japan', 'Russia',
+- `Slope_chart/oil_consumption_per_QueryResult.csv`: dades filtrades per 10 païssos ("Algeria", "Germany", "China", "Brazil", "India", "Japan", _Russia_,
 'Spain', 'United States', 'Saudi Arabia').
 
 - `Pyramid_chart/biodiversity-by-county-distribution-of-animals-plants-and-natural-communities-1.csv`: dataset original amb dades de biodiversitat amb la distribució d'animals, plantes i comunitats naturals segons la comarca.
