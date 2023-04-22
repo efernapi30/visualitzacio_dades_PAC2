@@ -28,5 +28,10 @@ Aquest paquet està format pels següents arxius:
   - `OHLC_chart/Bitcoins_2011-2019.png`: OHLC chart per tot el dataset (entre el 2011 i el 2019).
   - `OHLC_chart/Bitcoins_Nov2016-Sep2018.png`: OHLC chart per un període més reduït (entre Novembre de 2016 i Setembre de 2018).
   - `OHLC_chart/Bitcoins_Sep2017-Feb2018.png`: OHLC chart per un període més reduït (entre Setembre de 2017 i Febrer de 2018).
+  
+Publicació:
 
-A més, es pot visitar l'enllaç https://public.tableau.com/app/profile/estrella.fernandez/viz/Bitcoin_data/Sheet1 on està publicat el gràfic original de les dades de Bitcoins, on de manera intercativa es pot modificar el període de temps que es vol visualitzar.
+Les visualitzacions també es poden visualitzar a la mateixa plataforma on s'han desenvolupat.
+
+- _Slope Chart_ : https://public.flourish.studio/visualisation/13485090/
+- _OHLC Chart_: https://public.tableau.com/app/profile/estrella.fernandez/viz/Bitcoin_data/Sheet1
