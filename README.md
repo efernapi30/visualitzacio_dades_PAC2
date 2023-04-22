@@ -24,7 +24,7 @@ Aquest paquet està format pels següents arxius:
   - `OHLC_chart/BTCUSD.csv`: dataset original amb les dades del valor del bitcoin entre el 2011 i el 2019.
 
 - _Altres visualitzacions:_
-- 
+
   - `OHLC_chart/Bitcoins_2011-2019.png`: OHLC chart per tot el dataset (entre el 2011 i el 2019).
   - `OHLC_chart/Bitcoins_Nov2016-Sep2018.png`: OHLC chart per un període més reduït (entre Novembre de 2016 i Setembre de 2018).
   - `OHLC_chart/Bitcoins_Sep2017-Feb2018.png`: OHLC chart per un període més reduït (entre Setembre de 2017 i Febrer de 2018).
