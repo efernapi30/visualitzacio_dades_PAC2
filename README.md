@@ -21,7 +21,7 @@
   - `Pyramid_chart/count_chautauqua_birds_QueryResult.csv`: dades filtrades per totes les espècies d'ocells de la comarca de Chautauqua, Nova York.
   - `Pyramid_chart/Chautauqua_birds_QueryResult.csv`: dades agrupades segons l'estatus de conservació de les espècies d'ocells de la comarca de Chautauqua.
 
-  - `OHLC_chart/BTCUSD.csv`: dataset original amb les dades del valor del bitcoin entre el 2011 i el 2019.
+  - `OHLC_chart/BTCUSD.csv`: dataset original amb les dades del valor del bitcoin entre l'any 2011 i el 2019.
 
 - _Altres visualitzacions:_
 
