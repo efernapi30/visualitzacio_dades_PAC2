@@ -1,5 +1,5 @@
 # PAC2 Visualització de dades
-**Orígen de les dades:**
+**Origen de les dades:**
 - Birds: https://data.world/data-ny-gov/tk82-7km5 
 - Oil consumption: https://data.world/brianray/gapminder-oil-consumption-per
 - Bitcoin: https://data.world/petroniocandido/bitcoin
