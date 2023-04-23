@@ -1,4 +1,4 @@
-# PAC2 Visualitzacio de dades
+# PAC2 Visualització de dades
 **Orígen de les dades:**
 - Birds: https://data.world/data-ny-gov/tk82-7km5 
 - Oil consumption: https://data.world/brianray/gapminder-oil-consumption-per
@@ -8,7 +8,7 @@
 
 - _Representacions visuals de cada tècnica:_
 
-  - `Pyramid_Chart_Birds.png`: _Pyramid Chart_ del nombre d'espècies d'ocells de la comarca de Chautauqua que es troben en classificats en els diferents estatus de conservació.
+  - `Pyramid_Chart_Birds.png`: _Pyramid Chart_ del nombre d'espècies d'ocells de la comarca de Chautauqua que es troben classificats segons les diferents categories d'estatus de conservació.
   - `Slope_Chart_Oil_consumption.png`: _Slope Chart_ dels 10 païssos pels anys 1985 i 2010.
   - `OHLC_Chart_Bitcoins_Nov2017-May2018.png`: _Open-High-Low-Close Chart_ del valor del _Bitcoin_ per un període de temps més redüit (entre novembre de 2017 i Maig de 2018).
 
