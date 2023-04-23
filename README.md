@@ -15,7 +15,7 @@
 - _Datasets amb les dades:_
 
   - `Slope_chart/Oil_consumption_per_person.csv`: dataset original amb les dades de consum de combustible per persona en tones per any.
-  - `Slope_chart/oil_consumption_per_QueryResult.csv`: dades filtrades per 10 païssos (_Algeria_, _Germany_, _China_, _Brazil_, _India_, _Japan_, _Russia_, _Spain_, _United States_, _Saudi Arabia_).
+  - `Slope_chart/oil_consumption_per_QueryResult.csv`: dades del consum de combustible per persona en tones per any filtrades per 10 païssos (_Algeria_, _Germany_, _China_, _Brazil_, _India_, _Japan_, _Russia_, _Spain_, _United States_, _Saudi Arabia_).
 
   - `Pyramid_chart/biodiversity-by-county-distribution-of-animals-plants-and-natural-communities-1.csv`: dataset original amb dades de biodiversitat amb la distribució d'animals, plantes i comunitats naturals segons la comarca.
   - `Pyramid_chart/count_chautauqua_birds_QueryResult.csv`: dades filtrades per totes les espècies d'ocells de la comarca de Chautauqua, Nova York.
